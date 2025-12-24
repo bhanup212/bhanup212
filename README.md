@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="230">
 <p><em>Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   <br><br>checkout <a href="https://play.google.com/store/apps/details?id=com.sharein.filetransfer"> ShareIn - File Sharing app </a>
-  <br><br>iExpense Tracker app <a href="https://play.google.com/store/apps/details?id=com.expense.moneymanager.expensetracker"></a>
+  <br><br>iExpense Tracker app <a href="https://play.google.com/store/apps/details?id=com.expense.moneymanager.expensetracker">iExpense Tracker app</a>
 </em>
 <br><a href="https://www.bhanupro.com/">www.bhanupro.com</a>
 </p>
